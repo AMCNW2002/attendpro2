@@ -210,15 +210,6 @@ Recommended screenshots:
 - Attendance Summary
 - Pie Chart
 
-Example:
-
-```markdown
-![Home Screen](screenshots/home.png)
-
-![Student List](screenshots/student_list.png)
-
-![Attendance Chart](screenshots/attendance_chart.png)
-```
 
 ---
 
@@ -266,8 +257,8 @@ Sri Lanka Institute of Advanced Technological Education (SLIATE)
 
 ### Connect With Me
 
-- GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+- GitHub: [Your GitHub Profile](https://github.com/AMCNW2002/)
+  
 
 ---
 
